@@ -1,0 +1,8 @@
+{
+  "id": "shadowauth",
+  "name": "ShadowAuth",
+  "version": "1.0",
+  "main": "com.shadowauth.ShadowAuth",
+  "author": "ShadowMC",
+  "dependencies": []
+}
